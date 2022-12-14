@@ -1,0 +1,118 @@
+#poster-game h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 4vh;
+}
+.container_poster_game img{
+    height: 600px;
+    background-size:contain;
+    float :left ;
+}
+.text-poster p{
+    width: 300px;
+    margin-bottom: 500px;
+}
+.title-game{
+    display: flex;
+    padding: 80px;
+}
+.title-game h2{
+    font-size: 3vh;
+    border-bottom: 2px solid gray;
+    width: 69%;
+}
+
+.title-game img{
+    margin-right: 50px;
+    width: 100px;
+    height: 100px;
+    margin-top: 9px;
+}
+.container-content-game{
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 70%;
+    
+
+    margin-left: 13%;
+    
+
+
+}
+
+.jumbotron {
+    display: flex;
+    padding: 20px;
+}
+.jumbotron{
+    width: 80%;
+}
+.wrapper-jumbotron{
+    display: flex;
+}
+.button-game button{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    float: left;
+    cursor: pointer;
+    margin-left: 50px;
+    width: 100px;
+}
+.button-game{
+    margin-top: 20px;
+    margin-left: 55px;
+}
+#text-gede{
+    box-shadow: rgba(97, 97, 97, 0.2) 0px 2px 8px 0px;
+    border:1px solid rgb(169, 163, 163) ;
+    border-radius: 10px;
+    float:right;
+    width: 80%;
+    height: 300px;
+    /* margin-right: 14%; */
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.page-wrapper-game button{
+    float: right;
+    margin-right: 16%;
+
+}
+#read{
+    background-color: blue;
+    color: white;
+}
+#belum{
+    background-color: red;
+    color: white;
+}
+
+.text_poster{
+    float: right;
+}
+#gambar_game{
+    width: 900px;
+    float: left;
+}
+#content_gambar_game p{
+    width: 100px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.box p{
+    margin-top: 200px;
+    margin-left: 60px;
+    font-size: 3vh;
+    width: 600px;
+    float: right;
+}
+
+
+
